@@ -49,3 +49,9 @@ Acredito que um bom software nasce da união entre código limpo, boa usabilidad
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="35px" />
 </p>
+
+#
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitoriachristini2019-oss/vitoriachristini2019-oss/output/snake.svg" alt="Snake animation" />
+</p>
