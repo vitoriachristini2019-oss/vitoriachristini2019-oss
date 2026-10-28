@@ -22,7 +22,7 @@ jobs:
         with:
           github_user: ${{ github.repository_owner }}
           output: dist/snake.svg
-          theme: green
+          theme: matrix
 
       # Envia o SVG gerado para o branch 'output'
       - uses: crazy-max/ghaction-github-pages@v4
