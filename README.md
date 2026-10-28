@@ -11,8 +11,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou cursando atualme
 Acredito que um bom software nasce da união entre código limpo, boa usabilidade e resolução de problemas reais. Estou sempre em busca de aprender novas experiências e fazer conexões na área de tecnologia
 
 <div align="center">
-  <img width="48%" height="170px" src="https://github-stats-xi-six.vercel.app/api/stats?user=vitoriachristini2019-oss&theme=dracula" alt="GitHub Stats" />
-  <img width="48%" height="170px" src="https://github-stats-xi-six.vercel.app/api/top-repos?user=vitoriachristini2019-oss&theme=dracula" alt="Top Repositories" />
+  <img width="48%" height="200px" src="https://github-stats-xi-six.vercel.app/api/stats?user=vitoriachristini2019-oss&theme=dracula" alt="GitHub Stats" />
+  <img width="48%" height="200px" src="https://github-stats-xi-six.vercel.app/api/top-repos?user=vitoriachristini2019-oss&theme=dracula" alt="Top Repositories" />
 </div>
 
 #
